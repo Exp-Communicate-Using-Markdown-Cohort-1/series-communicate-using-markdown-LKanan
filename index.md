@@ -5,3 +5,7 @@
 ```
 print("Hello world, I'm LKanan, my favorite programming language is Python"
 ```
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
